@@ -1,4 +1,4 @@
-### Olá, sou Monique Oliveira, estudante de Análise e Desenvolvimento de sistemas 👩🏻‍💻
+### Olá, sou Monique Oliveira 👩🏻‍💻
 
 - 🔭 Atualmente trabalhando com NOC;
 - 🐍  Estudando Python;
