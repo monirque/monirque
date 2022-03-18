@@ -1,7 +1,7 @@
 ### Olá, sou Monique Oliveira 👩🏻‍💻
 
 - 🔭 Atualmente trabalhando com NOC;
-- 🐍  Estudando Python;
+- Estudando Front-End;
 - 👱🏻‍♀️ Pronomes: Ela/Dela
  <div align="center">
   <a href="https://github.com/monirque">
